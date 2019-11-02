@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Tweet Retriever*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Tweet Retriever** is a basic twitter app to read your tweets.
 
 Time spent: 4 hours spent in total
 
